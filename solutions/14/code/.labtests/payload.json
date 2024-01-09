@@ -1,0 +1,68 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1704818288743,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Spread Operator Usage in JS"
+          ],
+          "fullName": " Spread Operator Usage in JS Create a function named `sum`",
+          "status": "passed",
+          "title": "Create a function named `sum`",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "Spread Operator Usage in JS"
+          ],
+          "fullName": " Spread Operator Usage in JS Use the spread operator in the `sum` function",
+          "status": "passed",
+          "title": "Use the spread operator in the `sum` function",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "Spread Operator Usage in JS"
+          ],
+          "fullName": " Spread Operator Usage in JS Calculate the sum of all passed arguments",
+          "status": "passed",
+          "title": "Calculate the sum of all passed arguments",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "Spread Operator Usage in JS"
+          ],
+          "fullName": " Spread Operator Usage in JS Export the sum function using ESM syntax",
+          "status": "passed",
+          "title": "Export the sum function using ESM syntax",
+          "duration": 0,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1704818292198,
+      "endTime": 1704818292204,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/.labtests/nodecheck.test.js"
+    }
+  ]
+}

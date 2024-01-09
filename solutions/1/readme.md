@@ -1,7 +1,5 @@
 # Find the Distance Value Between Two Arrays
 
-**Difficulty**: Easy
-
 In this lab, your task is to implement the `findTheDistanceValue(arr1, arr2, d)` function. The function takes three inputs:
 
 - Two integer arrays: `arr1` and `arr2`

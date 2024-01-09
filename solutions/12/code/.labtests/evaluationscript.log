@@ -1,0 +1,4 @@
+yarn run v1.22.11
+$ /home/damner/code/node_modules/.bin/vitest run --config=/home/damner/code/.labtests/config.js --threads=false --reporter=json --outputFile=/home/damner/code/.labtests/payload.json
+JSON report written to /home/damner/code/.labtests/payload.json
+Done in 1.93s.
