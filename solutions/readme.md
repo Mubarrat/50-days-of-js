@@ -1,5 +1,3 @@
-# The title of my solutions of challenge days
-
 1. [Find the Distance Value Between Two Arrays](./1)
 2. [Curry Function Implementation](./2)
 3. [Create a Counter Function](./3)
