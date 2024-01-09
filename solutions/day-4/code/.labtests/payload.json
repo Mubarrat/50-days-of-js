@@ -1,0 +1,46 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703869524090,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite randomInRange returns a number greater than min",
+          "status": "passed",
+          "title": "randomInRange returns a number greater than min",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite randomInRange returns a number lesser than max",
+          "status": "passed",
+          "title": "randomInRange returns a number lesser than max",
+          "duration": 1,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1703869526877,
+      "endTime": 1703869526879,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/.labtests/nodecheck.test.js"
+    }
+  ]
+}

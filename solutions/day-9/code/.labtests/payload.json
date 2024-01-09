@@ -1,0 +1,79 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 5,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1704791920823,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite should return an empty array for an empty array input",
+          "status": "passed",
+          "title": "should return an empty array for an empty array input",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite should remove all falsy values from the input array",
+          "status": "passed",
+          "title": "should remove all falsy values from the input array",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite should keep truthy values that are not falsey",
+          "status": "passed",
+          "title": "should keep truthy values that are not falsey",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite should not modify the original input array",
+          "status": "passed",
+          "title": "should not modify the original input array",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite should return a new array, not modify the original input array",
+          "status": "passed",
+          "title": "should return a new array, not modify the original input array",
+          "duration": 0,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1704791922986,
+      "endTime": 1704791922989,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/.labtests/nodecheck.test.js"
+    }
+  ]
+}

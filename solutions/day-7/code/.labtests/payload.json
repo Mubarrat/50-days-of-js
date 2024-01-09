@@ -1,0 +1,134 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 11,
+  "numPassedTests": 11,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1704791633589,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " sums up even numbers in a simple array",
+          "status": "passed",
+          "title": "sums up even numbers in a simple array",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " returns 0 if there are no even numbers",
+          "status": "passed",
+          "title": "returns 0 if there are no even numbers",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handles an array with only one even number",
+          "status": "passed",
+          "title": "handles an array with only one even number",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handles an array with only one odd number",
+          "status": "passed",
+          "title": "handles an array with only one odd number",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " returns 0 for an empty array",
+          "status": "passed",
+          "title": "returns 0 for an empty array",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " sums up even numbers in an array with negative numbers",
+          "status": "passed",
+          "title": "sums up even numbers in an array with negative numbers",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " sums up even numbers in an array with both positive and negative numbers",
+          "status": "passed",
+          "title": "sums up even numbers in an array with both positive and negative numbers",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handles an array with all even numbers",
+          "status": "passed",
+          "title": "handles an array with all even numbers",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handles an array with all odd numbers",
+          "status": "passed",
+          "title": "handles an array with all odd numbers",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " sums up even numbers in an array with duplicates",
+          "status": "passed",
+          "title": "sums up even numbers in an array with duplicates",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " handles an array with one positive even number and one negative even number",
+          "status": "passed",
+          "title": "handles an array with one positive even number and one negative even number",
+          "duration": 0,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1704791635973,
+      "endTime": 1704791635977,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/.labtests/nodecheck.test.js"
+    }
+  ]
+}
