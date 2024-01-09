@@ -1,0 +1,68 @@
+{
+  "numTotalTestSuites": 2,
+  "numPassedTestSuites": 2,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1704824772830,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite returns an array of object values",
+          "status": "passed",
+          "title": "returns an array of object values",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite returns an empty array for an empty object",
+          "status": "passed",
+          "title": "returns an empty array for an empty object",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite returns an array of object values for a nested object",
+          "status": "passed",
+          "title": "returns an array of object values for a nested object",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            "",
+            "test suite"
+          ],
+          "fullName": " test suite returns an array of object values with duplicated keys",
+          "status": "passed",
+          "title": "returns an array of object values with duplicated keys",
+          "duration": 0,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1704824775578,
+      "endTime": 1704824775580,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/.labtests/nodecheck.test.js"
+    }
+  ]
+}

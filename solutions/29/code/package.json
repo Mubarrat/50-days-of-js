@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@testing-library/jest-dom": "5.16.5",
+    "jsdom": "22.1.0",
+    "vitest": "0.32.2"
+  }
+}
