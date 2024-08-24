@@ -58,3 +58,7 @@ To see my solutions, browse the solutions folder.
 48. [JavaScript Function Methods](./solutions/48)
 49. [Singleton Design Pattern in JavaScript](./solutions/49)
 50. [Inheritance in JavaScript](./solutions/50)
+
+# Certificate
+
+<iframe src="Certificate.pdf" width="100%" frameborder="0" style="aspect-ratio: 16/9;"></iframe>
