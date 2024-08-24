@@ -61,4 +61,4 @@ To see my solutions, browse the solutions folder.
 
 # Certificate
 
-<iframe src="Certificate.pdf" width="100%" frameborder="0" style="aspect-ratio: 16/9;"></iframe>
+[View the PDF](./Certificate.pdf)
